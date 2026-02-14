@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Swarm & Live Command Center",
+  "description": "An advanced agent orchestration platform using Gemini Live API for voice-driven swarm management, featuring ACP, MCP, and A2A protocols for autonomous agent collaboration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
